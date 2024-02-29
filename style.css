@@ -63,7 +63,8 @@
 
 } */
 
-h1{
+/* box model excersise */
+/* h1{
     background-color: black;
     color: white;
     height: 50px;
@@ -80,4 +81,122 @@ p{
     border-bottom: black;
     border-width: 20px;
     border-style: solid;
+} */
+
+
+
+/* inline excersise */
+/* #one{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+  
+
+   
 }
+
+#two{
+    
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    
+}
+
+.one{
+    background-color: yellow;
+    display: inline;
+}
+.two{
+    background-color: red;
+    display: inline;
+} */
+
+/* .a{
+    display: inline;
+    color: white;
+    background-color: black;
+    margin:20px;
+}
+
+.b{
+    display: inline;
+    color: white;
+    background-color: black;
+    margin:20px;
+}
+
+.c{
+    display: inline;
+    color: white;
+    background-color: black;
+    margin:20px;
+} */
+
+/* 
+#one{
+    color: white;
+    background-color: black;
+    display: inline;
+  
+}
+#two{
+    color: white;
+    background-color: black;
+    display: inline;
+    margin-left:500px;
+}
+#three{
+    color: white;
+    background-color: black;
+    display: inline;
+    margin-left:10px;
+}
+#four{
+    color: white;
+    background-color: black;
+    display: inline;
+    margin-left:10px;
+} */
+
+
+
+/* project */
+
+*{
+    margin:0;
+    padding:0
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+   
+}
+
+ul,li,h1{
+    display: inline;
+}
+ul{
+    margin-left:60%;
+}
+li{
+    color: green;
+    cursor: pointer;
+}
+li:hover{
+    color: red;
+}
+
+input{
+    width: 60%;
+    padding:15px;
+}
+.searchbar
+{
+    text-align: center;
+    margin:50px;
+}
+
