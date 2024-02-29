@@ -1,0 +1,83 @@
+/* h1{
+    color: blue;
+} */
+
+/* this method is used for class */
+/* .one{
+    color:blue;
+}
+
+.two{
+    color:lightpink;
+} */
+
+/* this method used for id */
+/* #one{
+    color:green;
+}
+
+#two{
+    color:red;
+} */
+
+/* .one{
+    background-color: red;
+    height: 100px;
+    width: 150px;
+    border-color: black;
+    border-width: 5px;
+    border-style:solid ;
+ 
+}
+
+#one{
+    background-color: red;
+    padding: 50px;
+    height:50px;
+    width:50px;
+    margin-top: 300px;
+    border-color: black;
+    border-width: 5px;
+    border-style:solid ;
+} */
+
+/* padding excersise */
+/* #demo{
+    color: white;
+    background-color: black;
+    padding-left:50px ;
+    padding-top:100px;
+    padding-bottom: 200px;
+    width: 300px;
+} */
+
+/* border excersise */
+/* div{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin:20px;
+    border-color: red;
+    border-width: 20px;
+    border-style:solid ;
+
+} */
+
+h1{
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin:10px;
+    padding-left: 500px;
+    padding-top: 30px;
+
+}
+
+p{
+    background-color: lightgrey;
+    margin:100px;
+    padding:100px;
+    border-bottom: black;
+    border-width: 20px;
+    border-style: solid;
+}
